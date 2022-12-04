@@ -6,6 +6,18 @@
   margin: 0 0 64px 0;
 }
 
+@media screen and (max-width: 1024px) {
+    .lead__subtitle {
+    margin: 0 0 54px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__subtitle {
+    margin: 0 0 54px 0;
+    }
+}
+
 @media screen and (max-width: 720px) {
   .lead__subtitle {
     max-width: 500px;
