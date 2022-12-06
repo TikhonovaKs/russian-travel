@@ -9,36 +9,9 @@
 
 @media screen and (max-width: 720px) {
   .lead__title {
-    max-width: 600px;
-    font-size: 80px;
-    line-height: 82px;
-    margin: 0 auto 26px auto;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .lead__title {
-    max-width: 500px;
-    font-size: 70px;
-    line-height: 72px;
-    margin: 0 auto 26px auto;
-  }
-}
-
-@media screen and (max-width: 520px) {
-  .lead__title {
-    max-width: 400px;
-    font-size: 50px;
-    line-height: 52px;
-    margin: 0 auto 20px auto;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .lead__title {
-    max-width: 300px;
-    font-size: 40px;
-    line-height: 47px;
+    max-width: calc(0.9 * 100vw);
+    font-size: calc(0.125 * 100vw);
+    line-height: calc(0.137 * 100vw);
     margin: 0 auto 20px auto;
   }
 }
