@@ -1,0 +1,6 @@
+.cover {
+  max-width: 1184px;
+  height: calc(0.62 * 100vw);
+  position: relative;
+  margin: 0 48px 92px 48px;
+}

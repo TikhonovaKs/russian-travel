@@ -7,15 +7,15 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .lead__subtitle {
+  .lead__subtitle {
     margin: 0 0 54px 0;
-    }
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .lead__subtitle {
+  .lead__subtitle {
     margin: 0 0 54px 0;
-    }
+  }
 }
 
 @media screen and (max-width: 720px) {
