@@ -27,12 +27,12 @@
 }
 
 @media screen and (max-width: 640px) {
-    .gallery {
-        max-width: 590px;
-        grid-template-columns: repeat(1, 1fr);
-        row-gap: 16px;
-        margin: 0 24px 64px 24px;
-      }  
+  .gallery {
+    max-width: 590px;
+    grid-template-columns: repeat(1, 1fr);
+    row-gap: 16px;
+    margin: 0 24px 64px 24px;
+  }
 }
 
 @media screen and (max-width: 320px) {

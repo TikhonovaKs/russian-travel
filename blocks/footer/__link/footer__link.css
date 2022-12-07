@@ -7,6 +7,11 @@
   color: white;
 }
 
+.footer__link:hover {
+  opacity: 0.6;
+  transition: opacity 0.3s ease-out;
+}
+
 @media screen and (max-width: 720px) {
   .footer__link {
     font-size: 18px;

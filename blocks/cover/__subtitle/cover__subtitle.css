@@ -7,13 +7,18 @@
   z-index: 1;
 }
 
+.cover__subtitle:hover {
+  opacity: 0.6;
+  transition: opacity 0.3s ease-out;
+}
+
 @media screen and (max-width: 600px) {
-    .cover__subtitle {
-      max-width: calc(0.9 * 100vw);
-      font-size: calc(0.043 * 100vw);
-      line-height: calc(0.05 * 100vw);
-    }
+  .cover__subtitle {
+    max-width: calc(0.9 * 100vw);
+    font-size: calc(0.043 * 100vw);
+    line-height: calc(0.05 * 100vw);
   }
+}
 
 @media screen and (max-width: 320px) {
   .cover__subtitle {
