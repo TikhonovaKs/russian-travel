@@ -35,4 +35,4 @@
 * медиа-запросы.
 
 ### Ссылка на GitHub Pages:
-* 
+* https://tikhonovaks.github.io/russian-travel/
