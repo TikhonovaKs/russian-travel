@@ -1,8 +1,1 @@
-@font-face {
-  font-family: FontName;
-  src: url("path/filename.eot");
-  src: url("path/filename.eot?#iefix") format("embedded-opentype"),
-    url("path/filename.woff2") format("woff2"),
-    url("path/filename.woff") format("woff"),
-    url("path/filename.ttf") format("truetype");
-}
+@import url(../Inter-3.19/Inter\ Web/inter.css);
