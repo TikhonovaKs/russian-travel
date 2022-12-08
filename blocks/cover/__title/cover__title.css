@@ -9,11 +9,6 @@
   z-index: 1;
 }
 
-.cover__title:hover {
-  opacity: 0.6;
-  transition: opacity 0.3s ease-out;
-}
-
 @media screen and (max-width: 600px) {
   .cover__title {
     max-width: calc(0.9 * 100vw);
